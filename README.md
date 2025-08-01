@@ -6,7 +6,5 @@ A small Node.js server that proxies requests and uses **Keycloak** for authentic
 
 ```bash
 npm install
-
-## Running the Server
-
 npm run start
+
